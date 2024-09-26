@@ -7,7 +7,7 @@
 ## Tech Stack
 **Languages**
 
-![PHP](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-00ADD8?style=flat&logo=php)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql)
