@@ -13,15 +13,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql)
 
 **Technologies**
-![Verbt](https://img.shields.io/badge/-Verbt-FFA500?style=flat)
-![Ignite](https://img.shields.io/badge/-Ignite-DD0031?style=flat&logo=apacheignite)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-2F4F4F?style=flat&logo=clickhouse)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
-![Consul](https://img.shields.io/badge/-Consul-F24E1E?style=flat&logo=consul)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
 ![gRPC](https://img.shields.io/badge/-gRPC-00B5E2?style=flat&logo=grpc)
 
